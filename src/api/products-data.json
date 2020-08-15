@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Notebook Acer Aspire 5",
+            "image": "notebook-acer-aspire-5.jpg",
+            "price": 4989.99,
+            "description": "Aspire 5 A515-54G-56SB Potência reimaginada. SUAS TAREFAS COM MAIS FLUIDEZ. Os notebooks da linha Aspire 5 são convenientemente portáteis e elegantes para acompanhar suas tarefas do dia a dia. Os recursos tecnológicos de sua confiança ao seu lado sempre que precisar. Desempenho suficiente para todas as tarefas com processador Intel Quad Core de 10ª geração e placa de vídeo (GPU) NVIDIA com 2GB de memória dedicada você cria, edita, compartilha e assiste vídeos, fotos e imagens sem dificuldades."
+        },
+        {
+            "id": 2,
+            "name": "Smart TV 4K LED 50” Samsung",
+            "image": "smart-tv.jpg",
+            "price": 3500.00,
+            "description": "Conexão sem fio entre sua TV e outros dispositivos Conecte facilmente fones de ouvido, teclados, soundbar e outros equipamentos via Bluetooth. Tudo sem precisar de cabos adicionais. Design Slim Acabamento preciso, bordas finas e soluções para minimizar a exposição dos fios no ambiente fazem da RU7100 uma TV elegante e completa. 4K de Verdade a Samsung RU7100 possui o melhor da tecnologia UHD 4K. Os painéis RGB, sem subpixel branco, garantem fidelidade de cores e certificação pelas principais associações internacionais do setor. Tipo de produto: LED TELA Série: 7 Resolução: 3,840 x 2,160 Vídeo Frequência da Tela (Hz): 60Hz Taxa de movimento claro: 120 PQI (Índice de Qualidade de Imagem): 1300 HDR (High Dynamic Range): HDR Premium HDR 10+: Sim HLG (Hybrid Log Gamma): Sim Contraste: Mega Contraste Tecnologia de Painel: Painel 100% RGB Contraste Enhancer: Sim Auto Motion Plus: Sim Modo Filme: Sim Modo Natural: Sim Áudio Dolby Digital Plus: Sim Potência (RMS): 20W Tipo de alto-falante: 2 Canais Multiroom Link: Sim Blutooth de Áudio: Sim Serviços Inteligentes Samsung Smart TV: Smart Bixby: Não compatível Interação por voz: Não compatível Navegador (Web Browser): Sim Conectividade HDMI: 3 USB: 2."
+        },
+        {
+            "id": 3,
+            "name": "Xbox One S 1TB - Branco",
+            "image": "x-box.jpg",
+            "price": 3259.99,
+            "description": "Novo Xbox One S, você pode se divertir com a maior linha de jogos, incluindo jogos clássicos do Xbox 360, em um console 40% menor. Armazene mais jogos do que nunca com um enorme disco rígido de 1TB. Stream de vídeo 4K no Netflix e Amazon Video, e assista a filmes Blu-ray UHD na impressionante fidelidade visual. Em seguida, experimente o maior conforto e sensação do novo controle sem fio do Xbox, com analógico texturizado e tecnologia Bluetooth. Com todos os maiores sucessos deste ano, tudo o que você ama sobre Xbox 360 ainda melhor no Xbox One. Alto alcance dinâmico Experimente cores mais vivas e luminosas em o Gears of War 4 entre outros jogos. Com uma taxa de contraste maior entre claro e escuro, a tecnologia de alto alcance dinâmico revela a verdadeira profundidade visual dos jogos. Blu-ray e Streaming Ultra HD 4K. Com resolução quatro vezes maior que o HD padrão, o Ultra HD 4K oferece o vídeo mais nítido e realístico possível. Faça streaming de conteúdo 4K na Netflix e na Amazon Video e assista a filmes em Blu-ray Ultra HD com uma impressionante fidelidade visual de alto alcance dinâmico. IR Blaster Configure seu Xbox One S para ligar outros dispositivos, como TV, receptor de áudio/vídeo, receptor de cabo/satélite. Se você estiver jogando ou assistindo a um filme, o IR Blaster integrado iniciará a ação com mais rapidez, permitindo que você se esqueça dos controles remotos. Controle Sem Fio Xbox Experimente o maior conforto do novo Controle Sem Fio Xbox, que apresenta um design mais elegante e anatômico. Tenha até o dobro do alcance sem fio. Mantenha o alvo com textura antiderrapante. E, com a tecnologia Bluetooth, divirta-se com seus jogos favoritos em computadores, tablets e telefones Windows 10.1. Especificações: - Console Branco - Capacidade: 1TB - HDMI-In e Out - Portas USB - Wifi embutido - Mídia: Blu-ray - Consumo aprox.: 52 Kw/h - Voltagem: Bivolt."
+        },
+        {
+            "id": 4,
+            "name": "Smartphone Huawei P30 Lite",
+            "image": "smartphone.jpg",
+            "price": 2600.00,
+            "description": "Beleza em todas as fotosTodo rosto é diferente e único. A tecnologia Selfie, dirigida pela IA da HUAWEI, embeleza os seus auto-retratos com base no seu formato e tipo de rosto exclusivos. A tecnologia mapeia os contornos de seus recursos e cria um algoritmo personalizado para garantir que você sempre mostre seu melhor lado.Visão mais ampla. Possibilidades mais amplasAmplie sua perspectiva com a lente Ultra-Wide Angle de 120° do HUAWEI P30 lite e capture paisagens expansivas em fotos impressionantes que não deixam nada fora de vista. Atire sem limites.Seu assistente de câmera inteligenteMelhore suas fotos com a poderosa tecnologia de reconhecimento de cena IA. A câmera frontal HUAWEI P30 lite pode identificar mais de 8 categorias em tempo real, enquanto a câmera traseira pode reconhecer 22 categorias diferentes. Configurações como cor, iluminação e contraste são ajustadas automaticamente para produzir fotos deslumbrantes.Incrível displayVeja, faça e crie mais com o novo display com 'notch' em formato de gota d'água do HUAWEI P30 lite. Grande, arrojado e bonito, a tela FHD de 6.15' com um entalhe delicado é deslumbrante para viver a sua vida em cores brilhantes. Além disso, o display tem a Certificação TÜV Rheinland Eye Comfort e foi desenvolvido para ser mais fácil para os olhos, resultando em uma experiência de visualização mais confortável.Design atraenteElegante e simplificado; o HUAWEI P30 lite cabe confortavelmente na palma da sua mão. O design fino de vidro curvo em 3D é feito para fácil aderência e uso com uma mão. Está disponível em três cores, incluindo um acabamento de cor gradiente iridescente atraente.*Imagens meramente ilustrativas."
+        },
+        {
+            "id": 5,
+            "name": "Telescópio Astronômico F360 50M 27546",
+            "image": "telescopio.jpg",
+            "price": 1299.99,
+            "description": "Um telescópio de uso profissional, para astrônomos ou estudantes de astronomia, com lente de 50 mm de diâmetro e longitude focal de 360 mm."
+        },
+        {
+            "id": 6,
+            "name": "Anker Nebulosa Cápsula Plus Projetor de Bolso Inteligente",
+            "image": "projetor.jpg",
+            "price": 3999.25,
+            "description": "Método de projeção: Frente, Tamanho máximo da imagem diagonal: 100, Brilho do modo padrão: 150 lm e LAN sem fio."
+        }
+    ]
+}
