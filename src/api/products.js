@@ -1,10 +1,10 @@
-import products from './products-data.json'
+import productsData from './products-data.json'
 
 export class Products{
     static getProducts(){
         return new Promise( (resolve, reject) => {
-            if(products){
-                resolve(products)
+            if(productsData){
+                resolve(productsData)
             }else{
                 reject()
             }
@@ -13,7 +13,7 @@ export class Products{
 
     static getProductById(id){
         return new Promise( (resolve, reject) => {
-            const product = products.items.find(p => p.id === parseInt(id))
+            const product = productsData.items.find(p => p.id === parseInt(id))
 
             if(product){
                 resolve(product)

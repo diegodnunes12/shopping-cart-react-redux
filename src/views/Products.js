@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Products } from '../api/products'
+import { Products } from '../api/Products'
 import { ProductItem } from '../components/ProductItem'
 import './Products.css'
  
