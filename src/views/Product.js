@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
+import { connect } from 'react-redux'
 import { Products } from '../api/Products'
+import { addToCart } from '../actions'
 
-export class ProductComponent extends Component {
+class ProductComponent extends Component {
 
     state = {
         product:{}
@@ -17,14 +19,20 @@ export class ProductComponent extends Component {
             <div className="product-page">
                 {this.state.product.image && <img width="400" src={require(`../assets/images/${this.state.product.image}`)} alt={`${this.state.product.nome}`} /> }
                 <h3>{this.state.product.nome}</h3>
-                <span className="product-proce">
+                <span className="product-price">
                     <b>Price:</b>
                     R$ {this.state.product.price}
                 </span>
                 <p>
                     {this.state.product.description}
                 </p>
+                <button onClick={() => this.props.addToCart(this.state.product)}>Add to cart</button>
             </div>
         )
     }
 }
+
+export const Product = connect(
+    undefined,
+    { addToCart }
+)(ProductComponent)
