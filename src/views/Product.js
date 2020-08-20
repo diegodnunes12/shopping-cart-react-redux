@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { Products } from '../api/Products'
 import { addToCart } from '../actions'
+import { Link } from 'react-router-dom'
 
 class ProductComponent extends Component {
 
@@ -27,6 +28,9 @@ class ProductComponent extends Component {
                     {this.state.product.description}
                 </p>
                 <button onClick={() => this.props.addToCart(this.state.product)}>Add to cart</button>
+                <p>
+                    <Link to="/cart">View Cart</Link>
+                </p>
             </div>
         )
     }

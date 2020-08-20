@@ -9,10 +9,11 @@
 }
 
 .product-item{
-    width: 33%
+    width: 29%;
+    margin: 20px 2%
 }
 
 .product-item img{
-    max-width: 100%;
-    height: auto
+    width: auto;
+    height: 150px
 }
