@@ -6,11 +6,11 @@ export const ProductItem = ({ product }) => (
         <img src={require(`../assets/images/${product.image}`)} alt={product.name} />
         <h3>{product.name}</h3>
         <span className="product-price">
-            <b>Price:</b>
-            {product.price}
+            <b>Price: </b>
+            R$ {product.price.toFixed(2)}
 
             <p>
-                <Link to={`/product/${product.id}`}>Details</Link>
+                <Link className="btn-details" to={`/product/${product.id}`}>Details</Link>
             </p>
         </span>
     </li>

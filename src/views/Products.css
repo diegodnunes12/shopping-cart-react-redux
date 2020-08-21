@@ -10,10 +10,18 @@
 
 .product-item{
     width: 29%;
-    margin: 20px 2%
+    margin: 20px 2%;
+    border: solid 1px #bbb;
 }
 
 .product-item img{
     width: auto;
     height: 150px;
+    margin: 0 auto;
+}
+
+.btn-details{
+    color:#777;
+    display: block;
+    text-align: center;
 }
