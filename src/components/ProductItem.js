@@ -10,7 +10,7 @@ export const ProductItem = ({ product }) => (
             R$ {product.price.toFixed(2)}
 
             <p>
-                <Link className="btn-details" to={`/product/${product.id}`}>Details</Link>
+                <Link className="btn-link" to={`/product/${product.id}`}>Details</Link>
             </p>
         </span>
     </li>

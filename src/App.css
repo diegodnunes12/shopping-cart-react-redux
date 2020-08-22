@@ -1,7 +1,7 @@
 h1{
   margin:0;
   padding:0;
-  color:#f5f5f5; 
+  color:#f5f5f5;
 }
 
 a{
@@ -12,6 +12,25 @@ a{
   background: #333;
   color:#f5f5f5;
   padding: 10px 0 15px;
+}
+
+.left{
+  float:left;
+  width: 50%;
+}
+.right{
+  float:right;
+  width: 50%;
+  padding-top: 13px;
+  text-align: right;
+}
+.clear{
+  clear: both;
+}
+.menu-item{
+  color: #f5f5f5;
+  font-weight: 700;
+  margin-left: 15px;
 }
 
 .container{
